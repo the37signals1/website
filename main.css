@@ -33,7 +33,7 @@ html{
 }
 div:hover{
     animation-name: hover;
-    animation-duration: .25s;
+    animation-duration: .10s;
     animation-direction: alternate;
     animation-iteration-count: infinite;
     
@@ -83,6 +83,9 @@ h2{
 #social-1{
     background-color:black;
    
+}
+table{
+    align-items: 33%, 33%, 33%;
 }
 
 #social-1:active{
