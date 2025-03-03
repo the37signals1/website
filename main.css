@@ -31,6 +31,10 @@ html{
 
 
 }
+div {
+    display: flex;
+    align-items: center;
+  }
 div:hover{
     animation-name: hover;
     animation-duration: .10s;
