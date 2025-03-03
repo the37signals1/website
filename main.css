@@ -39,7 +39,8 @@ div:hover{
     animation-name: hover;
     animation-duration: .10s;
     animation-direction:normal;
-    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+   
     
 }
 
