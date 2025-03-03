@@ -1,6 +1,9 @@
+
+
+
 body{
     background-color: #131f36;
-    font-family: "ProFontWindows", 'Times New Roman';
+   
     color:white;
     animation-name: start;
     animation-duration: .5s;
@@ -37,8 +40,7 @@ div:hover{
 
 .text{
     color:white;
-    
-    transform: skewX(20deg);
+    font-style: italic;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
