@@ -22,7 +22,7 @@ html{
     border-radius: 5px;
     box-shadow: 5px 5px 10px white;
     background-color: rgba(206, 85, 85, 0.558);
-    border-width: 5px;
+    border-width: 10px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -33,7 +33,7 @@ html{
 }
 div:hover{
     animation-name: hover;
-    animation-duration: 1s;
+    animation-duration: .25s;
     animation-direction: alternate;
     animation-iteration-count: infinite;
     
@@ -66,7 +66,7 @@ a{
     border-style: double;
     background-color: black;
     text-align: center;
-    border-width: 5px;
+    border-width: 10px;
     margin-left: auto;
     margin-right: auto;
     
