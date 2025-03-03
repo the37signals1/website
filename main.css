@@ -3,7 +3,7 @@
 
 body{
     background-color: #131f36;
-   
+   font-family: "VT323";
     color:white;
     animation-name: start;
     animation-duration: .5s;
