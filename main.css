@@ -15,13 +15,13 @@ html{
     scroll-behavior:smooth;
 }
 #start{
-    color: black;
+    color: white;
 }
 .start{
     border-style: groove;
     border-radius: 5;
     box-shadow: 5px 5px 10px white;
-    background-color:bisque;
+    background-color:darkgray;
     border-width: 10px;
     margin-left: auto;
     margin-right: auto;
