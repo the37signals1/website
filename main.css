@@ -28,24 +28,9 @@ html{
     color: black;
     max-width: 40%
 }
-@media only screen and  (max-width: 900px){
-    .start{
-        max-width: 60%;
-    }
-    div{
-        width:80%;
-        height:20%;
-    }
-    .title{
-        width:632.4px;
-        height:20%;
-        
-    }
-    body{
-        width:200%;
-        height: 200%;
-    }
-}
+
+    
+
 
 
     
