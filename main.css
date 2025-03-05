@@ -26,7 +26,12 @@ html{
     margin-left: auto;
     margin-right: auto;
     color: black;
-    max-width: 40%;
+    max-width: 40%
+}
+@media only screen and  (max-width: 500px){
+    .start{
+        max-width: 60%;
+    }
 }
 
 
