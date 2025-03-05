@@ -28,9 +28,13 @@ html{
     color: black;
     max-width: 40%
 }
-@media only screen and  (max-width: 500px){
+@media only screen and  (max-width: 900px){
     .start{
         max-width: 60%;
+    }
+    div{
+        width:80%;
+        height:30%;
     }
 }
 
