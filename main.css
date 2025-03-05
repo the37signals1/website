@@ -34,7 +34,11 @@ html{
     }
     div{
         width:80%;
-        height:30%;
+        height:20%;
+    }
+    td{
+        width:80%;
+        height:20%;
     }
 }
 
